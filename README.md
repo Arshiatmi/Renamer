@@ -49,4 +49,22 @@ You Can Do This Example With This Command Too :
 
 `python3 Renamer.py --path "/path/to/folder" --delimiter "-" --name Video --format mp4`
 
+Output Will Be :
+
+```Video-1.mp4
+Video-2.mp4
+Video-3.mp4
+Video-4.mp4
+Video-5.mp4
+Video-6.mp4
+Video-7.mp4
+Video-8.mp4
+Video-9.mp4
+Video-10.mp4
+Video-11.mp4
+Video-12.mp4
+Video-13.mp4
+Video-14.mp4
+```
+
 Now Nothing Will Be Asked And The Operation Is Done :)
