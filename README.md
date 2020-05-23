@@ -1,7 +1,7 @@
 # Renamer
 
 A Project To Rename All Files In A Folder ( In Some Specific Format ) For Example Rename All .mp4 Files.
-Example :
+# Example :
 
 For Example In A Folder You Have These Files :
 
@@ -21,7 +21,7 @@ the_video_season01_part14.mp4
 ```
 You Can Run This Program Like This :
 
-`python3 Renamer.py /path/to/folder`
+`python3 Renamer.py --path /path/to/folder`
 
 Then You Have To Enter : `mp4` And After That Just Enter The Name You Want To Rename.
 
@@ -42,3 +42,11 @@ Video12.mp4
 Video13.mp4
 Video14.mp4
 ```
+
+*Important: This Program Will Rename With Creation Date. If A File Created Sooner, It Will Have A Smaller Number.*
+
+You Can Do This Example With This Command Too :
+
+`python3 Renamer.py --path "/path/to/folder" --delimiter "-" --name Video --format mp4`
+
+Now Nothing Will Be Asked And The Operation Is Done :)
