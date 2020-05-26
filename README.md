@@ -25,7 +25,7 @@ You Can Run This Program Like This :
 
 Then You Have To Enter : `mp4` And After That Just Enter The Name You Want To Rename.
 
-For Example If You Enter Video Then Files Will Be :
+For Example If You Enter `Video` Then Files Will Be :
 
 ```Video1.mp4
 Video2.mp4
