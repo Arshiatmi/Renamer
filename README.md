@@ -50,7 +50,7 @@ Video14.mp4
 
 You Can Do This Example With This Command Too :
 
-`python3 Renamer.py --path "/path/to/folder" --delimiter "-" --name Video --format mp4`
+`python3 Renamer.py --path "/path/to/folder" --mode 0 --delimiter "-" --name Video --format mp4`
 
 Output Will Be :
 
@@ -70,5 +70,10 @@ Video-12.mp4
 Video-13.mp4
 Video-14.mp4
 ```
+
+**Available Modes:**
+  - 0 : It Means Rename By Creation Time
+  - 1 : It Means Rename By Last Modify Time
+  - 2 : It Means Rename By Last Access Time
 
 Now Nothing Will Be Asked And The Operation Is Done :)
