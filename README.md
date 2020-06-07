@@ -5,7 +5,9 @@ A Project To Rename All Files In A Folder ( In Some Specific Format ) For Exampl
 
 For Example In A Folder You Have These Files :
 
-```the_video_season01_part02.mp4
+```
+the_video_season01_part01.mp4
+the_video_season01_part02.mp4
 the_video_season01_part03.mp4
 the_video_season01_part04.mp4
 the_video_season01_part05.mp4
@@ -27,7 +29,8 @@ Then You Have To Enter : `mp4` And After That Just Enter The Name You Want To Re
 
 For Example If You Enter `Video` Then Files Will Be :
 
-```Video1.mp4
+```
+Video1.mp4
 Video2.mp4
 Video3.mp4
 Video4.mp4
@@ -51,7 +54,8 @@ You Can Do This Example With This Command Too :
 
 Output Will Be :
 
-```Video-1.mp4
+```
+Video-1.mp4
 Video-2.mp4
 Video-3.mp4
 Video-4.mp4
