@@ -8,7 +8,7 @@ if not path:
 if not str(path).endswith("Renamer.exe'"):
     print("Please Enter A Path With 'Renamer.exe' At The End.")
 
-path = path + r" \"--path\" \"%V".encode('utf-8')
+path = path + r"\" \"--path\" \"%V".encode('utf-8')
 path = r"\"".encode('utf-8') + path + r"\"".encode('utf-8')
 path = "\"".encode('utf-8') + path + "\"".encode('utf-8')
 path = str(path)[2:][:-1]
