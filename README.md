@@ -78,4 +78,4 @@ Video-14.mp4
 
 Now Nothing Will Be Asked And The Operation Is Done :)
 
-( The of this project came from my friend : https://github.com/ProfessorMR )
+( The Idea of this project came from my friend : https://github.com/ProfessorMR )
